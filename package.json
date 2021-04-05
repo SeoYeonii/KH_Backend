@@ -1,0 +1,19 @@
+{
+  "name": "present_KH",
+  "version": "1.0.0",
+  "description": "KH project",
+  "scripts": {
+    "dev": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeoYeonii/KH_Backend.git"
+  },
+  "keywords": [],
+  "author": "Seoyeonii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SeoYeonii/KH_Backend/issues"
+  },
+  "homepage": "https://github.com/SeoYeonii/KH_Backend#readme"
+}
